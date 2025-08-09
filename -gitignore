@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.log
+*.bak
+*.old
+*.key
+*.pem
+id_*
